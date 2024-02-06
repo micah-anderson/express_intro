@@ -1,0 +1,19 @@
+GET http://localhost:3000/profile
+
+
+###
+
+POST http://localhost:3000 
+
+###
+
+DELETE http://localhost:3000
+
+
+###
+PUT http://localhost:3000
+
+
+###
+# GET http://www.github.com
+# GET http://www.nasa.com
